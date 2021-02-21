@@ -9,6 +9,6 @@
 - :muscle: Budding backend developer.
 - 🔭 I’m currently working on our writer platform app. Find out more here https://muuzzer.com
 - 🌱 Exploring kotlin Ktor, kotlinx, GraphQL
-- 💬 Ask me about Android, Springboot
+- 💬 Ask me about Android, Springboot, Kotlin, Java, MySQL, MongoDB
 - 📫 How to reach me: ubarua1@gmail.com
 - :camera: Photographer: See my work here -> https://unsplash.com/@nookscribe
