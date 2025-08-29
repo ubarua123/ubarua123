@@ -7,7 +7,7 @@
 - 💻 16 years experienced Developer.
 - Passionate coder; Problem Solver; Excellent Debugging skills; Entrepreneur; Exploring New Technologies!
 - 💪 Experienced backend developer.
-- 🔭 I’m currently working on our mental health app. Find out more here https://www.flammingo.in
+- 🔭 I’m currently working on our mental health app. Find out more here https://www.heyflamming.com
 - 🌱 Exploring kotlin Ktor, kotlinx, GraphQL, Compose Multi-Platform, AI, LLM
 - 💬 Ask me about Android, Springboot, Kotlin, Java, MySQL, MongoDB
 - 📫 How to reach me: ubarua1@gmail.com
